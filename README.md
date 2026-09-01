@@ -24,7 +24,7 @@
     </td>
     <td width="33%" align="center" style="border: none; padding: 10px;">
       <h3>⚙️ Desarrollo Backend</h3>
-      <p>Desarrollo de APIs y lógica de negocio con Spring Boot y TypeScript, enfocado en backend (no full-stack).</p>
+      <p>Desarrollo de APIs y lógica de negocio con Spring Boot y TypeScript, enfocado en backend.</p>
     </td>
     <td width="33%" align="center" style="border: none; padding: 10px;">
       <h3>🖥️ Infraestructura TI</h3>
@@ -63,15 +63,6 @@
 
 <hr />
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misaelandresvergareaoficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelandresvergareaoficial&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<hr />
-
 ## 🚀 Proyectos Destacados
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -85,7 +76,7 @@
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
       </p>
       <p>
-        <a href="https://github.com/misaelandresvergareaoficial/proyecto-brechas-salariales-Peru" target="_blank">
+        <a href="https://github.com/misaelandresvergaraoficial/proyecto-brechas-salariales-Peru" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Repositorio-100000?style=flat-square&logo=github&logoColor=white" alt="Ver Repositorio" />
         </a>
       </p>
@@ -99,7 +90,7 @@
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       </p>
       <p>
-        <a href="https://github.com/misaelandresvergareaoficial/misactech" target="_blank">
+        <a href="https://github.com/misaelandresvergaraoficial/misactech" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Repositorio-100000?style=flat-square&logo=github&logoColor=white" alt="Ver Repositorio" />
         </a>
       </p>
