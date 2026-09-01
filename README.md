@@ -109,7 +109,7 @@
   <a href="mailto:misaelandresvergaraoficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/misaelandresvergareaoficial" target="_blank">
+  <a href="https://github.com/misaelandresvergaraoficial" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
