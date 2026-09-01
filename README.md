@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Misael Andrés Vergara</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=600&lines=Analista+de+Datos+%7C+Backend+Developer;SQL+%7C+Power+BI+%7C+PostgreSQL;Transformando+datos+en+decisiones" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&width=600&lines=Analista+de+Datos+%7C+Backend+Developer;SQL+%7C+Power+BI+%7C+MySQL+%7C+PostgreSQL" alt="Typing SVG" />
 </div>
 
 <hr />
@@ -8,7 +8,7 @@
 ## 🎯 Sobre Mí
 
 <p align="center">
-  <strong>Profesional enfocado en el análisis de datos y business intelligence, con conocimientos en desarrollo backend. 
+  <strong>Estudiante de 8vo ciclo enfocado en el análisis de datos y business intelligence, con conocimientos en desarrollo backend. 
   Me apasiona transformar datos en insights accionables mediante SQL, Power BI y Excel.</strong>
 </p>
 
@@ -39,6 +39,7 @@
 
 ### 📊 Data & Business Intelligence
 <p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -105,16 +106,6 @@
     </td>
   </tr>
 </table>
-
-<hr />
-
-## 🌱 Actualmente aprendiendo
-
-<p>
-  ☁️ Cloud Computing (AWS, Azure, Google Cloud Platform)<br>
-  🐳 Docker y Containerización<br>
-  📊 Técnicas avanzadas de Data Analytics
-</p>
 
 <hr />
 
