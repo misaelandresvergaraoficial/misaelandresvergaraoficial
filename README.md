@@ -96,6 +96,24 @@
       </p>
     </td>
   </tr>
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <h3>🌐 OVR Logistics - Infraestructura de Red y Servidores</h3>
+      <p>Red segmentada (192.168.10.0/24 en 8 subredes) + controlador de dominio Windows Server 2022 (serverovr.local): AD DS, DNS, DHCP con relay, IIS con 3 sitios, FTP por áreas, correo interno y GPOs. Probado con VMs reales en GNS3 + VirtualBox.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+        <img src="https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
+      </p>
+      <p>
+        <a href="https://github.com/misaelandresvergaraoficial/ovr-logistics-enterprise-infrastructure" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-100000?style=flat-square&logo=github&logoColor=white" alt="Ver Repositorio" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    </td>
+  </tr>
 </table>
 
 <hr />
