@@ -11,11 +11,9 @@
 
 ## 🎯 Sobre mí
 
-Soy estudiante de octavo ciclo de **Ingeniería de Sistemas Computacionales**, orientado principalmente a **redes e infraestructura TI**, con interés complementario en **bases de datos y desarrollo backend**.
+Soy estudiante de octavo ciclo de **Ingeniería de Sistemas Computacionales**, orientado a **redes e infraestructura TI y bases de datos**, con interés complementario en el **desarrollo backend**.
 
-He trabajado académicamente en el diseño de redes y la implementación de servicios con **Windows Server 2022**, incluyendo Active Directory, DNS, DHCP, GPO, permisos NTFS, IIS y FTP. También cuento con conocimientos de MySQL, PostgreSQL y SQL aplicados al modelado relacional, consultas, vistas y procedimientos almacenados.
-
-Me interesa continuar desarrollándome en administración de infraestructura, soporte de redes, servidores, bases de datos e integración de aplicaciones backend.
+Me interesa diseñar y administrar soluciones tecnológicas que integren redes, servidores, servicios de infraestructura y gestión de datos, mientras continúo fortaleciendo mis conocimientos técnicos y desarrollando proyectos prácticos.
 
 ---
 
